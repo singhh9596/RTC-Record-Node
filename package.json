@@ -1,0 +1,28 @@
+{
+  "name": "RecrodRTC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "webrtc",
+    "javascript",
+    "RecordRTC",
+    "Node.js",
+    "ffmpeg",
+    "audio-recording",
+    "video-recording",
+    "gif-recording",
+    "audio/video recording",
+    "webp",
+    "webm",
+    "wav"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
